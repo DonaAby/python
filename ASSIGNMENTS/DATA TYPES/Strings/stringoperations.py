@@ -1,0 +1,11 @@
+str="study well"
+print(str.upper())
+print(str.lower())
+print(str.isupper())
+print(str.islower())
+print(str.isalpha())
+print(str.swapcase())
+print(str.capitalize())
+print(str.title())
+print(str.isalnum())
+print(str.isdigit())
